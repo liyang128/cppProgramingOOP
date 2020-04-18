@@ -14,9 +14,7 @@ public:
 	int id;
 	string name;
 	string info;
-
 	void introduce();
-
 	student();
 	student(int id,string na,string info);
 	~student();
@@ -33,23 +31,16 @@ class Class
 {
 public:
 	student students[50];
-
 	int n;
 
 	void showAllstudents();
-
 	student querystudent(int id);
-
 	bool changeOnestudent(student s);
-
 	int  addOnestudent(student s);
-	
 	bool  deleteOnestudent(int id);
-	
+
 	Class();
-
 	~Class();
-
 };
 
 ```
