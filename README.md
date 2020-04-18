@@ -49,6 +49,4 @@ public:
 
 工程入口。
 
-## 效果截图
-### 菜单
-![菜单](images/mueu.png)
+## 效果截图见images文件夹
