@@ -60,4 +60,4 @@ public:
 
 ## 效果截图
 ### 菜单
-![菜单](./images/mueu.png)
+![菜单](https://github.com/liyang128/cppProgramingOOP/blob/master/images/mueu.png)
