@@ -60,4 +60,4 @@ public:
 
 ## 效果截图
 ### 菜单
-![菜单](/images/mueu.png)
+![菜单](images/mueu.png)
